@@ -6,12 +6,12 @@
 //  Copyright © 2018年 S.J. All rights reserved.
 //
 
-#import "SJViewController.h"
+#import <UIKit/UIkit.h>
 #import "SJPresentationController.h"
 
 NS_ASSUME_NONNULL_BEGIN
 
-@interface SJCustomAlertController : SJViewController
+@interface SJCustomAlertController : UIViewController
 
 /**
  使用自定义view初始化
